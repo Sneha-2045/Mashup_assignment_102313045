@@ -1,0 +1,6 @@
+Flask
+yt-dlp
+pydub
+email-validator
+gunicorn
+python-dotenv
